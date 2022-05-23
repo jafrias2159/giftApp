@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on GifGridItem Should render a gifGridItem 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="saitama"
+    src="japan.anime/"
+  />
+  <p>
+     
+    saitama
+     
+  </p>
+</div>
+`;
